@@ -84,11 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "PhD candidate in Mechanics,  School of Science, Harbin Institute of Technology, Shenzhen."
   location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=YvJ3ljgAAAAJ&hl=zh-CN&oi=ao"
+  email            : "hityingph@163.com"
+  researchgate     :  "https://www.researchgate.net/profile/Penghua_Ying"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +94,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5758-2369"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
