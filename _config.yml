@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &BenwardYin
 facebook:
   username               :
   app_id                 :
@@ -83,12 +83,12 @@ author:
   name             : "Penghua Ying"
   avatar           : "profile.png"
   bio              : "Postdoc in School of Chemistry, Tel Aviv University. I investigate the physical behaviours of 2D materials and MOFs using computational approaches."
-  location         : "Location"
+  #location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=YvJ3ljgAAAAJ&hl"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "benwardyin@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Penghua-Ying"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "hityingph"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5758-2369"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
