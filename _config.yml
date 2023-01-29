@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Penghua Ying / Academic homepage"
+title                    : "Penghua Ying"
 title_separator          : "-"
 name                     : &name "Penghua Ying"
 description              : &description "Postdoc in School of Chemistry, Tel Aviv University. I investigate the physical behaviours of 2D materials and MOFs using computational approaches."
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Penghua Ying"
-  avatar           : "bio-photo.jpg"
-  bio              : "Postdoc in School of Chemistry, Tel Aviv University. I investigate the physical behaviours of 2D materials and MOFs using computational approaches."
-  #location         : "Location"
+  avatar           : "penghua_profile.jpg"
+  bio              : "Postdoc in School of Chemistry, Tel Aviv University."
+  location         : "Tel Aviv, Israel"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=YvJ3ljgAAAAJ&hl"
