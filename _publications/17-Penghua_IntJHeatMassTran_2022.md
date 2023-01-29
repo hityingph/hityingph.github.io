@@ -3,7 +3,7 @@ title: "Variable thermal transport in black, blue, and violet phosphorene from e
 collection: publications
 permalink: /publication/17-Penghua_IntJHeatMassTran_2022
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-03
+date: 2023-03-01
 venue: 'International Journal of Heat and Mass Transfer'
 paperurl: 'http://hityingph.github.io/files/17-Penghua_IntJHeatMassTran_2022.pdf'
 citation: 'Ying P, Liang T, Xu K, et al. Variable thermal transport in black, blue, and violet phosphorene from extensive atomistic simulations with a neuroevolution potential[J]. International Journal of Heat and Mass Transfer, 2023, 202: 123681.'
