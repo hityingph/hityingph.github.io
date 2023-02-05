@@ -3,7 +3,7 @@ title: "Ying P, Liang T, Xu K, et al. Variable thermal transport in black, blue,
 collection: publications
 permalink: /publication/17-Penghua_IntJHeatMassTran_2022
 excerpt: 'Phosphorus has diverse chemical bonds, and even in its two-dimensional form, there are three stable allotropes: black phosphorene (Black-P), blue phosphorene (Blue-P), and violet phosphorene (Violet-P). Due to the complexity of these structures, no efficient and accurate classical interatomic potential has been developed for them. In this paper, we develop an efficient machine-learned neuroevolution potential model for these allotropes and apply it to study thermal transport in them via extensive molecular dynamics (MD) simulations.'
-date: 2022-03-01
+date: 2022-11-25
 venue: 'International Journal of Heat and Mass Transfer'
 #paperurl: 'http://hityingph.github.io/files/17-Penghua_IntJHeatMassTran_2022.pdf'
 #citation: 'Ying P, Liang T, Xu K, et al. Variable thermal transport in black, blue, and violet phosphorene from extensive atomistic simulations with a neuroevolution potential[J]. International Journal of Heat and Mass Transfer, 2023, 202: 123681.'
