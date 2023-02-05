@@ -1,7 +1,7 @@
 ---
 title: "Fan Z, Wang Y, Ying P, et al. GPUMD: A package for constructing accurate machine-learned potentials and performing highly efficient atomistic simulations[J]. The Journal of Chemical Physics, 2022, 157(11): 114801."
 collection: publications
-permalink: /publication/13-Zheyong_J. Chem. Phys._2022
+permalink: /publication/13-Zheyong_JCP_2022
 excerpt: 'We present our latest advancements of machine-learned potentials (MLPs) based on the neuroevolution potential (NEP) framework introduced in [Fan et al., Phys. Rev. B 104, 104309 (2021)] and their implementation in the open-source package GPUMD.We increase the accuracy of NEP models both by improving the radial functions in the atomic-environment descriptor using a linear combination of Chebyshev basis functions and by extending the angular descriptor with some four-body and five-body contributions as in the atomic cluster expansion approach.'
 date: 2022-09-20
 venue: 'The Journal of Chemical Physics'
