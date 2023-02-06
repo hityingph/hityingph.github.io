@@ -1,5 +1,5 @@
 ---
-title: "Ying P, Dong H, Liang T, et al. Atomistic insights into the mechanical anisotropy and fragility of monolayer fullerene networks using quantum mechanical calculations and machine-learning molecular dynamics simulations[J]. Extreme Mechanics Letters, 2023, 58: 101929."
+title: "21.Ying P, Dong H, Liang T, et al. Atomistic insights into the mechanical anisotropy and fragility of monolayer fullerene networks using quantum mechanical calculations and machine-learning molecular dynamics simulations[J]. Extreme Mechanics Letters, 2023, 58: 101929."
 collection: publications
 permalink: /publication/21-Penghua_ExtremeMechLett_2022
 excerpt: 'In this work, we comprehensively study the mechanical properties of the newly synthesized monolayer quasi-hexagonal-phase fullerene (qHPF) membrane [Hou et al., 2022] under uniaxial tension by using quantum mechanical density-functional-theory (DFT) calculations and molecular dynamics (MD) simulations with a machine-learned neuroevolution potential (NEP).'

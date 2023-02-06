@@ -1,5 +1,5 @@
 ---
-title: "Wu X, Ying P, Li C, et al. Dual effects of hetero-interfaces on phonon thermal transport across graphene/C3N lateral superlattices[J]. International Journal of Heat and Mass Transfer, 2023, 201: 123643."
+title: "22.Wu X, Ying P, Li C, et al. Dual effects of hetero-interfaces on phonon thermal transport across graphene/C3N lateral superlattices[J]. International Journal of Heat and Mass Transfer, 2023, 201: 123643."
 collection: publications
 permalink: /publication/22-Xin-IntJHeatMassTran_2022
 excerpt: 'Two-dimensional (2D) lateral superlattices, a typical artificial nano-phononic crystal, have stimulated widespread interests and potential application prospects in terms of their physically interesting features. Herein, we have found wave-particle crossover of phonon transport in the graphene (Gr)/2D polyaniline (C
