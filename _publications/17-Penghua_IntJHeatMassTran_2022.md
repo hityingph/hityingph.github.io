@@ -14,3 +14,5 @@ Phosphorus has diverse chemical bonds, and even in its two-dimensional form, the
 
 [Download paper here](http://hityingph.github.io/files/17-Penghua_IntJHeatMassTran_2022.pdf)
 
+[Related code and input files](https://github.com/hityingph/supporting-info/tree/main/17-Penghua_IntJHeatMassTran_2022)
+
