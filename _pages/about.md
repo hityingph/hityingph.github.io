@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Penghua, a Postdoc in School of Chemistry, Tel Aviv University, Israel. I investigate the physical behaviours of 2D materials and MOFs using computational approaches.
+I am a postdoc in the joint group of Prof. Michael Urbakh and Prof. Oded Hod at the School of Chemistry, Tel Aviv University from November, 2022. I received my Ph.D. in Mechanics from Harbin Institute of Technology, Shenzhen (China) in September, 2022. My doctoral work focused on mechanical and thermal transport behaviors of two-dimensional materials and metal-organic frameworks using atomistic simulations including ab initio methods, molecular dynamics simulation and machine-learning potential approaches. In 2020, I awarded the China National Scholarship for post-graduate students.
+
+My postdoctoral research will focus on cutting-edge investigations to reveal the physical origins of friction in complex interfaces of two-dimensional (2D) materials. To achieve this goal, I will develop a multiscale computational approach for studying shear dynamics of large-scale interfaces incorporating heterogeneous layered material coatings. The method will tailor the finite-elements coarse-grained simulation approach for bulk systems with physically motivated and machine-learning based classical force-fields dedicated for the simulation of layered material interfaces. The developed approach will be used to address key questions relevant to large-scale superlubricity, including friction in polycrystalline layered interfaces, corrugated surfaces, multi-contact junctions, and the interplay between bulk mechanics and interfacial friction.
+
 
 ## Richard Feynman: ‘I, a universe of atoms, an atom in the universe’
 
