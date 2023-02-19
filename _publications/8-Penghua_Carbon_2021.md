@@ -1,5 +1,5 @@
 ---
-title: "Ying P, Zhang J, Du Y, Zhong Z. Effects of coating layers on the thermal transport in carbon nanotubes-based van der Waals heterostructures[J]. Carbon, 2021, 176: 446-457."
+title: "8.Ying P, Zhang J, Du Y, Zhong Z. Effects of coating layers on the thermal transport in carbon nanotubes-based van der Waals heterostructures[J]. Carbon, 2021, 176: 446-457."
 collection: publications
 permalink: /publication/8-Penghua_Carbon_2021
 excerpt: 'In this paper, we conduct a comprehensive investigation on the thermal transport in one-dimensional (1D) van der Waals (vdW) heterostructures by using non-equilibrium molecular dynamics simulations. As for the considered 1D vdW heterostructures having a base of (40,40) carbon nanotube (CNT), we find that the boron nitride nanotube (BNNT) coating can increase the thermal conductance of inner CNT base by 36%, while the molybdenum disulfide nanotube (MSNT) coating can reduce the thermal conductance by 47%.'
