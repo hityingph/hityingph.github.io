@@ -62,3 +62,9 @@ a universe of atoms
 an atom in the universe.
 
 Poem extracted from “The Value of Science,” public address at the NAS (1955).
+
+## Jennifer Doudna: you’re at a buffet table
+
+I think you can put scientists into two buckets. One is the type who dives very deeply into one topic for their whole career and they know it better than anybody else in the world. Then there’s the other bucket, where I would put myself, where it’s like you’re at a buffet table and you see an interesting thing here and do it for a while, and that connects you to another interesting thing and you take a bit of that. That’s how I came to be working on Crispr – it was a total side-project.
+
+Extracted from an [interview](https://www.theguardian.com/science/2017/jul/02/jennifer-doudna-crispr-i-have-to-be-true-to-who-i-am-as-a-scientist-interview-crack-in-creation?CMP=Share_iOSApp_Other).
