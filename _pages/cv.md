@@ -29,7 +29,8 @@ Awards
 
 Peer reviews
 ======
-* Diamond & Related Materials 
+* [Diamond & Related Materials](https://www.sciencedirect.com/journal/diamond-and-related-materials) 
+* [Physica Scripta](https://iopscience.iop.org/journal/1402-4896) 
 
 Publications
 ======
