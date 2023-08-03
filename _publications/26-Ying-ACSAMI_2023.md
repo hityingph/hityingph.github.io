@@ -12,8 +12,8 @@ Metal–organic frameworks (MOFs) are a family of materials that have high poros
 
 [Download paper here](http://hityingph.github.io/files/26-Ying_ACSAMI_2023.pdf)
 
-[Download support materials here](https://pubs.acs.org/doi/10.1021/acsami.3c07770.)
+[Download support materials here](https://pubs.acs.org/doi/suppl/10.1021/acsami.3c07770/suppl_file/am3c07770_si_001.pdf)
 
-[The training datasets for the NEP model](https://gitlab.com/brucefan1983/nep-data/-/tree/main/MOF)
+[Training datasets for the NEP model](https://gitlab.com/brucefan1983/nep-data/-/tree/main/MOF)
 
-[The representive input files](https://github.com/hityingph/supporting-info/tree/main/26-Ying_ACSAMI_2023)
+[Representive input files](https://github.com/hityingph/supporting-info/tree/main/26-Ying_ACSAMI_2023)
