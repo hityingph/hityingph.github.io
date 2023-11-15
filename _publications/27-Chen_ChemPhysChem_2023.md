@@ -1,19 +1,11 @@
 ---
-title: "26.Ying P, Liang T, Xu K et al. Sub-Micrometer Phonon Mean Free Paths in Metal–Organic Frameworks Revealed by Machine Learning Molecular Dynamics Simulations, 2023, 15: 36412–36422."
+title: "27.Chen X, Wang B, Ying P et al. Indentation Depth-Dependent Hardness of Metal-Organic Framework Crystals: The Effect of Local Amorphization Induced by Indentation, 2023, e202300647."
 collection: publications
-permalink: /publication/26-Ying_ACSAMI_2023
-excerpt: 'We develop a set of accurate yet highly efficient machine-learned potentials for three typical MOFs and perform extensive MD simulations to study thermal transport in the three MOFs. We found the phonon mean free paths (MFPs) of MOFs can reach the sub-micrometer scale in the low-frequency region. The sub-micrometer phonon MFPs are also found to be correlated with a moderate temperature dependence of thermal conductivity between those in typical crystalline and amorphous materials.'
-date: 2023-08-03
-venue: 'ACS Applied Materials & Interfaces'
+permalink: /publication/27-Chen_ChemPhysChem_2023
+excerpt: 'In order to explain the effect of the indentation depth on the hardness of MOFs, we conducted nanoindentation simulations on HKUST-1 by using reactive molecular dynamics simulations. Our simulations reveal that the HKUST-1 material near the indenter can transform from the parent crystalline phase to a new amorphous phase due to the high pressure generated, while its counterpart far from the indenter remains in the crystalline phase.'
+date: 2023-10-15
+venue: 'ChemPhysChem'
 ---
-![image](https://github.com/hityingph/hityingph.github.io/assets/54773018/46007af1-6829-47aa-a4f0-bf01fa14df6f)
 
-Metal–organic frameworks (MOFs) are a family of materials that have high porosity and structural tunability and hold great potential in various applications, many of which require a proper understanding of the thermal transport properties. Molecular dynamics (MD) simulations play an important role in characterizing the thermal transport properties of various materials. However, due to the complexity of the structures, it is difficult to construct accurate empirical interatomic potentials for reliable MD simulations of MOFs. To this end, we develop a set of accurate yet highly efficient machine-learned potentials for three typical MOFs, including MOF-5, HKUST-1, and ZIF-8, using the neuroevolution potential approach as implemented in the GPUMD package, and perform extensive MD simulations to study thermal transport in the three MOFs. Although the lattice thermal conductivity values of the three MOFs are all predicted to be smaller than 1 W/(m K) at room temperature, the phonon mean free paths (MFPs) are found to reach the sub-micrometer scale in the low-frequency region. As a consequence, the apparent thermal conductivity only converges to the diffusive limit for micrometer single crystals, which means that the thermal conductivity is heavily reduced in nanocrystalline MOFs. The sub-micrometer phonon MFPs are also found to be correlated with a moderate temperature dependence of thermal conductivity between those in typical crystalline and amorphous materials. Both the large phonon MFPs and the moderate temperature dependence of thermal conductivity fundamentally change our understanding of thermal transport in MOFs.
+The hardness of metal-organic frameworks (MOFs) is an important mechanical property metric measuring their resistance to the permanent plastic deformation. The hardness of most MOFs measured from nanoindentation experiments usually exhibits the similar unique indentation depth dependence feature, the mechanism of which still remains unclear. In order to explain the effect of the indentation depth on the hardness of MOFs, we conducted nanoindentation simulations on HKUST-1 by using reactive molecular dynamics simulations. Our simulations reveal that the HKUST-1 material near the indenter can transform from the parent crystalline phase to a new amorphous phase due to the high pressure generated, while its counterpart far from the indenter remains in the crystalline phase. By considering the crystalline-amorphous interface in the energy analysis of MOFs, we derived an analytical expression of the hardness at different indentation depths. It is found that the interface effect can greatly increase the hardness of MOFs, as observed in nanoindentation simulations. Moreover, the proposed analytical expression can well explain the indentation depth-dependent hardness of many MOF crystals measured in nanoindentation experiments. Overall, this work can provide a better understanding of the indentation depth dependence of the hardness of MOFs.
 
-[Download paper here](http://hityingph.github.io/files/26-Ying_ACSAMI_2023.pdf)
-
-[Download support materials here](https://pubs.acs.org/doi/suppl/10.1021/acsami.3c07770/suppl_file/am3c07770_si_001.pdf)
-
-[Training datasets for the NEP model](https://gitlab.com/brucefan1983/nep-data/-/tree/main/MOF)
-
-[Representive input files](https://github.com/hityingph/supporting-info/tree/main/26-Ying_ACSAMI_2023)
