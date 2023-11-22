@@ -1,5 +1,5 @@
 ---
-title: "26.Ying P, Liang T, Xu K et al. Sub-Micrometer Phonon Mean Free Paths in Metal–Organic Frameworks Revealed by Machine Learning Molecular Dynamics Simulations, 2023, 15: 36412–36422."
+title: "26.Ying P, Liang T, Xu K et al. Sub-Micrometer Phonon Mean Free Paths in Metal–Organic Frameworks Revealed by Machine Learning Molecular Dynamics Simulations[J]. ACS Applied Materials & Interfaces, 2023, 15: 36412–36422."
 collection: publications
 permalink: /publication/26-Ying_ACSAMI_2023
 excerpt: 'We develop a set of accurate yet highly efficient machine-learned potentials for three typical MOFs and perform extensive MD simulations to study thermal transport in the three MOFs. We found the phonon mean free paths (MFPs) of MOFs can reach the sub-micrometer scale in the low-frequency region. The sub-micrometer phonon MFPs are also found to be correlated with a moderate temperature dependence of thermal conductivity between those in typical crystalline and amorphous materials.'
