@@ -1,7 +1,7 @@
 ---
-title: "4.Ying P, Zhang J, Zhang X, Zhong Z. Impacts of functional group substitution and pressure on the thermal conductivity of ZIF-8[J]. The Journal of Physical Chemistry C, 2020, 124(11): 6274-6283."
+title: "4.Ying, P., Zhang, J., Zhang, X., & Zhong, Z. (2020). Impacts of functional group substitution and pressure on the thermal conductivity of ZIF-8. The Journal of Physical Chemistry C, 124(11), 6274-6283."
 collection: publications
-permalink: /publication/4-Penghua_JPhysChemC_2020
+permalink: /publication/4-Ying_JPhysChemC_2020
 excerpt: 'Metal–organic frameworks (MOFs) are promising candidates as natural gas adsorbents because of their porous feature and high structural tunability. In the gas adsorption/desorption process, MOFs are often under complicated physical environments, such as varied pressure and temperature; however, limited attention has been paid to the effect of pressure on their thermal properties. In this work, taking ZIF-8 with four different functional groups (−H, −CH3, −Cl, and −Br) as an example, we investigate the influence of functional group substitution and pressure on the thermal conductivity of MOFs through equilibrium molecular dynamics simulations.'
 date: 2020-02-27
 venue: 'The Journal of Physical Chemistry C'
@@ -10,4 +10,4 @@ venue: 'The Journal of Physical Chemistry C'
 
 Metal–organic frameworks (MOFs) are promising candidates as natural gas adsorbents because of their porous feature and high structural tunability. In the gas adsorption/desorption process, MOFs are often under complicated physical environments, such as varied pressure and temperature; however, limited attention has been paid to the effect of pressure on their thermal properties. In this work, taking ZIF-8 with four different functional groups (−H, −CH3, −Cl, and −Br) as an example, we investigate the influence of functional group substitution and pressure on the thermal conductivity of MOFs through equilibrium molecular dynamics simulations. A reduction in thermal conductivity induced by the functional group substitution is observed, which is caused by a damping effect of the acoustic mismatch. Regarding the impact of pressure, the thermal conductivity of ZIF-8 is found to decrease first with increasing hydrostatic pressure. When the pressure exceeds a critical value, a sudden rise is observed in the thermal conductivity of ZIF-8 because a phase transformation from the porous phase to the dense phase is found in this process. The complicated influence of pressure on thermal conductivity is explained by a competition between the aggravation of phonon scattering and the enhancement of volumetric heat capacity in ZIF-8 with increasing pressure. This work is expected to provide molecular insights into the functional group- and pressure-dependent thermal transport of MOFs and thus facilitate their applications in energy storage and gas absorption.
 
-[Download paper here](http://hityingph.github.io/files/4-Penghua_JPhysChemC_2020.pdf)
+[Download paper here](http://hityingph.github.io/files/4-Ying_JPhysChemC_2020.pdf)
