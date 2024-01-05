@@ -1,5 +1,5 @@
 ---
-title: "1.Ying, P., Zhao, Y., & Tan, H. (2019). Study on collapse controlling of single-wall carbon nanotubes by helium storage. Computational Materials Science, 164, 133-138."
+title: "Ying, P.; Zhao, Y.; Tan, H. Study on collapse controlling of single-wall carbon nanotubes by helium storage. Computational Materials Science 2019, 164, 133-138. DOI: 10.1016/j.commatsci.2019.04.010"
 collection: publications
 permalink: /publication/1-Ying_CompMaterSci_2019
 excerpt: 'In this paper, we propose a method to control the collapsed nanostructurings of single-walled carbon nanotubes (SWCNTs) by helium storage and the key mechanism is elaborated from the potential energy aspect. The molecular dynamics simulation shows that enough helium atoms could restore the collapsing configuration of (40, 40) carbon nanotubes back to the circular cross section. '
