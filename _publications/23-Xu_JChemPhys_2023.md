@@ -1,7 +1,7 @@
 ---
-title: "25.Xu, K., Hao, Y., Liang, T., et al. (2023). Accurate prediction of heat conductivity of water by a neuroevolution potential. The Journal of Chemical Physics, 158(20)."
+title: "Xu, K.; Hao, Y.; Liang, T.; Ying, P.; Xu, J.; Wu, J.; Fan, Z. Accurate prediction of heat conductivity of water by a neuroevolution potential. The Journal of Chemical Physics 2023, 158 (20), 204114. DOI: 10.1063/5.0147039"
 collection: publications
-permalink: /publication/25-Xu_JChemPhys_2023
+permalink: /publication/23-Xu_JChemPhys_2023
 excerpt: 'We propose an approach that can accurately predict the heat conductivity of liquid water.'
 date: 2023-02-21
 venue: 'Journal of Chemical Physics'
@@ -13,6 +13,6 @@ machine-learned potential based on the neuroevolution-potential approach that ca
 empirical force fields. On the other hand, we combine the Green–Kubo method and the spectral decomposition method within the homogeneous nonequilibrium molecular dynamics framework to account for the quantum-statistical effects of high-frequency vibrations. Excellent
 agreement with experiments under both isobaric and isochoric conditions within a wide range of temperatures is achieved using our approach.
 
-[Download paper here](http://hityingph.github.io/files/25-Xu_JChemPhys_2023.pdf)
+[Download paper here](http://hityingph.github.io/files/23-Xu_JChemPhys_2023.pdf)
 
 [The training and testing results for the NEP model](https://gitlab.com/brucefan1983/nep-data)

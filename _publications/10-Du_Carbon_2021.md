@@ -1,5 +1,5 @@
 ---
-title: "10.Du, Y., Ying, P., Zhang, J. (2021). Prediction and optimization of the thermal transport in hybrid carbon-boron nitride honeycombs using machine learning. Carbon, 184, 492-503."
+title: "Du, Y.; Ying, P.; Zhang, J. Prediction and optimization of the thermal transport in hybrid carbon-boron nitride honeycombs using machine learning. Carbon 2021, 184, 492-503. DOI: 10.1016/j.carbon.2021.08.035"
 collection: publications
 permalink: /publication/10-Du_Carbon_2021
 excerpt: 'The recently discovered carbon honeycombs (CHCs) and boron nitride honeycombs (BNHCs) are found to have the similar molecular structures but different thermal properties. Thus, through appropriately patching together CHCs and BNHCs, the hybrid carbon-boron nitride honeycombs (C–BNHCs) with tunable thermal conductivity can be achieved. In this paper, the machine learning (ML) method together with molecular dynamics simulations is employed to study the thermal transport property of C–BNHCs, and also utilized to design the structures of C–BNHCs for the specific thermal conductivity.'

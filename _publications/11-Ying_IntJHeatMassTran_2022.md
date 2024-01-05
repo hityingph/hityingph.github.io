@@ -1,5 +1,5 @@
 ---
-title: "11.Ying, P., Liang, T., Du, Y., Zhang, J., Zeng, X., & Zhong, Z. (2022). Thermal transport in planar sp2-hybridized carbon allotropes: A comparative study of biphenylene network, pentaheptite and graphene. International Journal of Heat and Mass Transfer, 183, 122060."
+title: "Ying, P.; Liang, T.; Du, Y.; Zhang, J.; Zeng, X.; Zhong, Z. Thermal transport in planar sp2-hybridized carbon allotropes: A comparative study of biphenylene network, pentaheptite and graphene. International Journal of Heat and Mass Transfer 2022, 183. DOI: 10.1016/j.ijheatmasstransfer.2021.122060"
 collection: publications
 permalink: /publication/11-Ying_IntJHeatMassTran_2022
 excerpt: 'The biphenylene network with periodically arranged four-, six-, and eight-membered rings has been successfully synthesized in very recent experiments. This novel two-dimensional (2D) carbon allotrope has potentials in applications of lithium storage and carbon-based circuitry. Understanding the thermal transport properties of biphenylene network is of critical importance for the performance and reliability of its practical applications. To this end, the thermal transport in biphenylene network is comprehensively investigated in this paper with the aid of molecular dynamics simulations together with first-principles calculations.'

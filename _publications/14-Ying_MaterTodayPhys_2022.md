@@ -1,5 +1,5 @@
 ---
-title: "14.Ying, P., Li, X., Qiang, X., et al. (2022). Tension-induced phase transformation and anomalous Poisson effect in violet phosphorene. Materials Today Physics, 27, 100755."
+title: "Ying, P.; Li, X.; Qiang, X.; Du, Y.; Zhang, J.; Chen, L.; Zhong, Z. Tension-induced phase transformation and anomalous Poisson effect in violet phosphorene. Materials Today Physics 2022, 27. DOI: 10.1016/j.mtphys.2022.100755"
 collection: publications
 permalink: /publication/14-Ying_MaterTodayPhys_2022
 excerpt: 'Two-dimensional violet phosphorene (VP) nanosheets are promising semiconductor materials with unique cross structures distinct from those of their allotropes such as black phosphorene and blue phosphorene, but their mechanical behaviors remain almost unexplored. By using the first-principles calculations, in this paper we investigate the mechanical behaviors of monolayer, bilayer, and bulk VP under uniaxial tension. A phase transformation from the open-pore phase to closed-pore phase is observed in VP structures when under a specific tensile strain.'
