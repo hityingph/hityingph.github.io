@@ -29,9 +29,12 @@ Awards
 
 Peer reviews
 ======
-* [Diamond & Related Materials](https://www.sciencedirect.com/journal/diamond-and-related-materials) 
-* [Physica Scripta](https://iopscience.iop.org/journal/1402-4896) 
+* [ACS Applied Materials & Interfaces](https://pubs.acs.org/journal/aamick)
 * [Carbon Trends](https://www.sciencedirect.com/journal/carbon-trends)
+* [Diamond & Related Materials](https://www.sciencedirect.com/journal/diamond-and-related-materials) 
+* [npj computational materials](https://www.nature.com/npjcompumats)
+* [Physica Scripta](https://iopscience.iop.org/journal/1402-4896) 
+
 
 Publications
 ======
