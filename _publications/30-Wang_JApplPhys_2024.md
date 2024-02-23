@@ -6,7 +6,7 @@ excerpt: 'In this work, we develop machine-learned neuroevolution potentials (NE
 date: 2024-02-12
 venue: 'Journal of Applied Physics'
 ---
-!![image](https://github.com/hityingph/hityingph.github.io/assets/54773018/787c1737-0334-462b-afba-37c9a02b9b20)
+![image](https://github.com/hityingph/hityingph.github.io/assets/54773018/787c1737-0334-462b-afba-37c9a02b9b20)
 
 
 The lattice thermal conductivity (LTC) of Ga$_2$O$_3$ is an important property due to the challenge in the thermal management of high-power devices. In this work, we develop machine-learned neuroevolution potentials (NEPs) for single-crystalline $\beta$-Ga$_2$O$_3$ and $\kappa$-Ga$_2$O$_3$, and demonstrate their accuracy in modeling thermal transport properties. Combining NEP-driven homogeneous non-equilibrium molecular dynamics (HNEMD) simulations with tensor analysis, we determine the spatial distributions of lattice thermal conductivities (LTCs) for two Ga$_2$O$_3$ crystals, showing dissimilar thermal behaviors. Specifically, $\beta$-Ga$_2$O$_3$ shows isotropic thermal transport properties, with the LTCs along [100], [010], and [001] directions being predicted to be \SI{10.3 \pm 0.2}{\watt\per\meter\per\kelvin}, \SI{19.9 \pm 0.2}{\watt\per\meter\per\kelvin}, and \SI{12.6 \pm 0.2}{\watt\per\meter\per\kelvin}, respectively, consistent with previous experimental measurements. For $\kappa$-Ga$_2$O$_3$, our predictions suggest nearly isotropic thermal transport properties, with the LTCs along [100], [010], and [001] being estimated to be \SI{4.5 \pm 0.1}{\watt\per\meter\per\kelvin}, \SI{3.9 \pm 0.1}{\watt\per\meter\per\kelvin}, and \SI{4.0 \pm 0.1}{\watt\per\meter\per\kelvin}.
