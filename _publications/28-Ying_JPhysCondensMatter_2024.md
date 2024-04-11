@@ -12,6 +12,7 @@ Machine-learned potentials (MLPs) have become a popular approach of modeling int
 
 [Download paper here](http://hityingph.github.io/files/28-Ying_JPhysCondensMatter_2024.pdf)
 
+[Download erratum here](https://iopscience.iop.org/article/10.1088/1361-648X/ad2c75/pdf)
 
 [Training datasets for the NEP model](https://gitlab.com/brucefan1983/nep-data)
 
