@@ -1,5 +1,6 @@
 ---
 title: "3. P. Ying, J. Zhang, J. Zhou, Q. Liang, Z. Zhong, Mechanical behaviors of MoS nanowires under tension from molecular dynamics simulations. Computational Materials Science 179, 109691 (2020)."
+order: 3
 collection: publications
 permalink: /publication/3-Ying_CompMaterSci_2020
 excerpt: 'As a new class of one-dimensional (1D) transition-metal monochalcogenides (TMMs) nanowires (NWs), the recently synthesized MoS NWs exhibit potential applications in two-dimensional integrated circuit. However, their mechanical behaviors remain almost unexplored. In this paper, the mechanical behaviors of MoS NWs under tensile loading are studied by classical molecular dynamics simulations together with first-principles calculations. '

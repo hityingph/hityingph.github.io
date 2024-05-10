@@ -1,5 +1,5 @@
 ---
-title: "P. Ying, Y. Zhao, H. Tan, Study on collapse controlling of single-wall carbon nanotubes by helium storage. Computational Materials Science 164, 133-138 (2019)."
+title: "1. P. Ying, Y. Zhao, H. Tan, Study on collapse controlling of single-wall carbon nanotubes by helium storage. Computational Materials Science 164, 133-138 (2019)."
 order: 1
 collection: publications
 permalink: /publication/1-Ying_CompMaterSci_2019
