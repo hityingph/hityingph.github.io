@@ -1,5 +1,5 @@
 ---
-title: "Ying, P.; Zhang, J.; Zhong, Z. Mechanical properties of monolayer ternary transitional metal dichalogenides MoS2xTe2(1 − x): A molecular dynamics study. Journal of Applied Physics 2019, 126 (21). DOI: 10.1063/1.5122264 "
+title: "P. Ying, J. Zhang, Z. Zhong, Mechanical properties of monolayer ternary transitional metal dichalogenides MoS2xTe2(1 − x): A molecular dynamics study. Journal of Applied Physics 126, 215105 (2019)."
 collection: publications
 permalink: /publication/2-Ying_JApplPhys_2019
 excerpt: "In this paper, the mechanical behaviors of recently synthesized monolayer ternary transitional metal dichalogenides (TMDs) MoS2xTe2(1 − x) (0 < x < 1) under tensile loading are studied by classical molecular dynamics simulations. Particular attention is paid to the fundamental mechanical properties such as Young's modulus and fracture behaviors of monolayer MoS2xTe2(1 − x)."
