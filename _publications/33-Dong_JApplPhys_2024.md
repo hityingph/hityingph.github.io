@@ -1,5 +1,5 @@
 ---
-title: "H. Dong, Y. Shi, P. Ying, K. Xu, T. Liang, Y. Wang, Z. Zeng, X. Wu, W. Zhou, S. Xiong, S. Chen, Z. Fan, Molecular dynamics simulations of heat transport using machine-learned potentials: A mini-review and tutorial on GPUMD with neuroevolution potentials. Journal of Applied Physics 135, 161101 (2024)."
+title: "33. H. Dong, Y. Shi, P. Ying, K. Xu, T. Liang, Y. Wang, Z. Zeng, X. Wu, W. Zhou, S. Xiong, S. Chen, Z. Fan, Molecular dynamics simulations of heat transport using machine-learned potentials: A mini-review and tutorial on GPUMD with neuroevolution potentials. Journal of Applied Physics 135, 161101 (2024)."
 collection: publications
 permalink: /publication/33-Dong_JApplPhys_2024
 excerpt: 'In this mini-review and tutorial, we delve into the fundamentals of heat transport, explore pertinent MD simulation methods, and survey the applications of MLPs in MD simulations of heat transport. Furthermore, we provide a step-by-step tutorial on developing MLPs for highly efficient and predictive heat transport simulations, utilizing the neuroevolution potentials as implemented in the GPUMD package.'

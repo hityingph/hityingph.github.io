@@ -1,5 +1,5 @@
 ---
-title: "X. Chen, B. Wang, P. Ying, J. Zhang, Indentation Depth-Dependent Hardness of Metal-Organic Framework Crystals: The Effect of Local Amorphization Induced by Indentation. ChemPhysChem 25, e202300647 (2024)."
+title: "25. X. Chen, B. Wang, P. Ying, J. Zhang, Indentation Depth-Dependent Hardness of Metal-Organic Framework Crystals: The Effect of Local Amorphization Induced by Indentation. ChemPhysChem 25, e202300647 (2024)."
 collection: publications
 permalink: /publication/25-Chen_ChemPhysChem_2023
 excerpt: 'In order to explain the effect of the indentation depth on the hardness of MOFs, we conducted nanoindentation simulations on HKUST-1 by using reactive molecular dynamics simulations. Our simulations reveal that the HKUST-1 material near the indenter can transform from the parent crystalline phase to a new amorphous phase due to the high pressure generated, while its counterpart far from the indenter remains in the crystalline phase.'

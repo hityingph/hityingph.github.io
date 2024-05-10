@@ -1,5 +1,5 @@
 ---
-title: "Y. Zhou, S. Zhou, P. Ying, Q. Zhao, Y. Xie, M. Gong, P. Jiang, H. Cai, B. Chen, S. Tongay, J. Zhang, W. Jie, T. Wang, P. Tan, D. Liu, M. Kuball, Unusual Deformation and Fracture in Gallium Telluride Multilayers. J Phys Chem Lett 13, 3831-3839 (2022)."
+title: "12. Y. Zhou, S. Zhou, P. Ying, Q. Zhao, Y. Xie, M. Gong, P. Jiang, H. Cai, B. Chen, S. Tongay, J. Zhang, W. Jie, T. Wang, P. Tan, D. Liu, M. Kuball, Unusual Deformation and Fracture in Gallium Telluride Multilayers. J Phys Chem Lett 13, 3831-3839 (2022)."
 collection: publications
 permalink: /publication/12-Zhou_JPhysChemLett_2022
 excerpt: 'The deformation and fracture mechanism of two-dimensional (2D) materials are still unclear and not thoroughly investigated. Given this, mechanical properties and mechanisms are explored on example of gallium telluride (GaTe), a promising 2D semiconductor with an ultrahigh photoresponsivity and a high flexibility. Hereby, the mechanical properties of both substrate-supported and suspended GaTe multilayers were investigated through Berkovich-tip nanoindentation instead of the commonly used AFM-based nanoindentation method. '

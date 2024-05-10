@@ -1,5 +1,5 @@
 ---
-title: "B. Wang, P. Ying, J. Zhang, Effects of Missing Linker Defects on the Elastic Properties and Mechanical Stability of the Metal–Organic Framework HKUST-1. The Journal of Physical Chemistry C 127, 2533-2543 (2023)."
+title: "20. B. Wang, P. Ying, J. Zhang, Effects of Missing Linker Defects on the Elastic Properties and Mechanical Stability of the Metal–Organic Framework HKUST-1. The Journal of Physical Chemistry C 127, 2533-2543 (2023)."
 collection: publications
 permalink: /publication/20-Wang_JPhysChemC_2023
 excerpt: 'The defects can naturally exist or be artificially designed in metal–organic frameworks (MOFs), which could significantly affect their mechanical properties. In this paper, the elastic properties of HKUST-1 with randomly distributed missing linker defects are investigated by reactive molecular dynamics simulations together with the strain-fluctuation method.'

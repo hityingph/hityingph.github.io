@@ -1,5 +1,5 @@
 ---
-title: "P. Ying, J. Zhang, Z. Zhong, Pressure-induced phase transition of isoreticular MOFs: Mechanical instability due to ligand buckling. Microporous and Mesoporous Materials 312, 110765 (2021)."
+title: "7. P. Ying, J. Zhang, Z. Zhong, Pressure-induced phase transition of isoreticular MOFs: Mechanical instability due to ligand buckling. Microporous and Mesoporous Materials 312, 110765 (2021)."
 collection: publications
 permalink: /publication/7-Ying_MicroporMesoporMat_2021
 excerpt: 'Since MOFs are often upon varied pressures in gas adsorption/desorption process, understanding the mechanical stability of these ultraporous frameworks becomes extremely crucial. In this paper, taking the isoreticular DUT material as an example, the relation between the mechanical stability of isoreticular MOFs and their ligands is investigated by real-time molecular dynamics simulations as well as three state of art computational approaches including Born stability criteria, anisotropy in elastic moduli and pressure-versus-volume equations. '

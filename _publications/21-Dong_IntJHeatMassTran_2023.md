@@ -1,5 +1,5 @@
 ---
-title: "H. Dong, C. Cao, P. Ying, Z. Fan, P. Qian, Y. Su, Anisotropic and high thermal conductivity in monolayer quasi-hexagonal fullerene: A comparative study against bulk phase fullerene. International Journal of Heat and Mass Transfer 206, 123943 (2023)."
+title: "21. H. Dong, C. Cao, P. Ying, Z. Fan, P. Qian, Y. Su, Anisotropic and high thermal conductivity in monolayer quasi-hexagonal fullerene: A comparative study against bulk phase fullerene. International Journal of Heat and Mass Transfer 206, 123943 (2023)."
 collection: publications
 permalink: /publication/21-Dong_IntJHeatMassTran_2023
 excerpt: 'Recently a novel two-dimensional (2D) C$_{60}$ based crystal called quasi-hexagonal-phase fullerene (QHPF) has been fabricated and demonstrated to be a promising candidate for 2D electronic devices [Hou et al. Nature 606, 507–510 (2022)]. We construct an accurate and transferable machine-learned potential to study heat transport and related properties of this material, with a comparison to the face-centered-cubic bulk-phase fullerene (BPF). '
