@@ -1,5 +1,5 @@
 ---
-title: "Ying, P.; Natan, A.; Hod, O.; Urbakh, M. Effect of Interlayer Bonding on Superlubric Sliding of Graphene Contacts: A Machine-Learning Potential Study. ACS Nano 2024, 18 (14), 10133-10141. DOI: 10.1021/acsnano.3c1309"
+title: "P. Ying, A. Natan, O. Hod, M. Urbakh, Effect of Interlayer Bonding on Superlubric Sliding of Graphene Contacts: A Machine-Learning Potential Study. ACS Nano 18, 10133-10141 (2024)."
 collection: publications
 permalink: /publication/32-Ying_ACSNano_2024
 excerpt: 'We present a machine-learning potential (MLP) for bilayer defected graphene, utilizing state-of-the-art graph neural networks trained against many-body dispersion corrected density functional theory calculations under iterative configuration space exploration. '

@@ -1,5 +1,5 @@
 ---
-title: "Ying, P.; Fan, Z. Combining the D3 dispersion correction with the neuroevolution machine-learned potential. Journal of Physics: Condensed Matter 2023, 36 (12). DOI: 10.1088/1361-648X/ad1278"
+title: "1.	P. Ying, Z. Fan, Combining the D3 dispersion correction with the neuroevolution machine-learned potential. J Phys Condens Matter 36, 125901 (2023)."
 collection: publications
 permalink: /publication/28-Ying_JPhysCondensMatter_2024
 excerpt: 'We propose to combine the neuroevolution potential (NEP) with the popular D3 correction to achieve a unified NEP-D3 model that can simultaneously model relatively short-ranged bonded interactions and relatively long-ranged dispersion interactions.'

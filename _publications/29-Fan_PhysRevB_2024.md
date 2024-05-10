@@ -1,5 +1,5 @@
 ---
-title: "Fan, H.; Ying, P.; Fan, Z.; Chen, Y.; Li, Z.; Zhou, Y. Anomalous strain-dependent thermal conductivity in the metal-organic framework HKUST-1. Physical Review B 2024, 109, 045424. DOI: 10.1103/PhysRevB.109.045424"
+title: "H. Fan, P. Ying, Z. Fan, Y. Chen, Z. Li, Y. Zhou, Anomalous strain-dependent thermal conductivity in the metal-organic framework HKUST-1. Physical Review B 109, 045424 (2024)."
 collection: publications
 permalink: /publication/29-Fan_PhysRevB_2024
 excerpt: 'We find that the thermal conductivity of HKUST-1 decreases with compressive strain and increases with tensile strain, which is contradictory to the classical Liebfried and Schlömann theory, i.e., the thermal conductivity of crystals should increase with applied compression.'

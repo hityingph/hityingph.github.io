@@ -1,5 +1,5 @@
 ---
-title: "Li, J.; Ying, P.; Liang, T.; Du, Y.; Zhou, J.; Zhang, J. Mechanical and thermal properties of graphyne-coated carbon nanotubes: a molecular dynamics simulation on one-dimensional all-carbon van der Waals heterostructures. Physical Chemistry Chemical Physics 2023, 25 (12), 8651-8663. DOI: 10.1039/d2cp05673a"
+title: "J. Li, P. Ying, T. Liang, Y. Du, J. Zhou, J. Zhang, Mechanical and thermal properties of graphyne-coated carbon nanotubes: a molecular dynamics simulation on one-dimensional all-carbon van der Waals heterostructures. Phys Chem Chem Phys 25, 8651-8663 (2023)."
 collection: publications
 permalink: /publication/22-Li_PhysChemChemPhys_2023
 excerpt: 'The mechanical and thermal properties of a hybrid nanotube consisting of a coaxial carbon nanotube (CNT) inside a graphyne nanotube (GNT), i.e., CNT@GNT, are investigated in this paper by using molecular dynamics simulations.'

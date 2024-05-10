@@ -1,5 +1,5 @@
 ---
-title: "Fan, Z.; Xiao, Y.; Wang, Y.; Ying, P.; Chen, S.; Dong, H. Combining linear-scaling quantum transport and machine-learning molecular dynamics to study thermal and electronic transports in complex materials. J Phys Condens Matter 2024. DOI: 10.1088/1361-648X/ad31c2"
+title: "Z. Fan, Y. Xiao, Y. Wang, P. Ying, S. Chen, H. Dong, Combining linear-scaling quantum transport and machine-learning molecular dynamics to study thermal and electronic transports in complex materials. J Phys Condens Matter 36 245901 (2024)."
 collection: publications
 permalink: /publication/31-Fan_JPhysCondensMatter_2024
 excerpt: 'We propose an efficient approach for simultaneous prediction of thermal and electronic transport properties in complex materials.'

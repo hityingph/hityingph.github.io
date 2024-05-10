@@ -1,5 +1,5 @@
 ---
-title: "Ke, J.; Ying, P.; Du, Y.; Zou, B.; Sun, H.; Zhang, J. Delamination of MoS(2)/SiO(2) interfaces under nanoindentation. Physical Chemistry Chemical Physics 2022, 24 (26), 15991-16002. DOI: 10.1039/d2cp00074a"
+title: "J. Ke, P. Ying, Y. Du, B. Zou, H. Sun, J. Zhang, Delamination of MoS(2)/SiO(2) interfaces under nanoindentation. Phys Chem Chem Phys 24, 15991-16002 (2022)."
 collection: publications
 permalink: /publication/13-Ke_PhysChemChemPhys_2022
 excerpt: 'Molybdenum disulphide (MoS2) mounted on silicon dioxide (SiO2) constitutes the fundamental functional components of many nanodevices, but its mechanical properties, which are crucial for the device design and fabrication, remain almost unexplored. Here, the mechanical properties of the multilayer MoS2/SiO2 system are investigated via nanoindentation experiments and molecular dynamics simulations. In terms of the mechanical properties, a comparative study of MoS2/SiO2 and graphene/SiO2 systems is presented.'
