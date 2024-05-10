@@ -1,5 +1,5 @@
 ---
-title: "16. H. Song, P. Ying, P. Zhu, Y. Zhou, Z. Zhong, Modeling of load responses and aging of high strength fibers considering UV-radiation. Composites Science and Technology 231, 109806 (2023)."
+title: "H. Song, P. Ying, P. Zhu, Y. Zhou, Z. Zhong, Modeling of load responses and aging of high strength fibers considering UV-radiation. Composites Science and Technology 231, 109806 (2023)."
 collection: publications
 permalink: /publication/16-Song_ComposSciTechnol_2022
 excerpt: 'Long-term illumination can damage the mechanical properties of high strength fiber composites, resulting in the material aging and loss of mechanical properties. To reveal the mechanism of ultraviolet- (UV-) induced damage, in this paper, a nonlinear constitutive model is developed to describe the elastic and inelastic deformation behavior of high strength fibers under UV-radiation and mechanical loadings.'

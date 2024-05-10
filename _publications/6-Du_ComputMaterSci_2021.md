@@ -1,5 +1,5 @@
 ---
-title: "6. Y. Du, J. Zhou, P. Ying, J. Zhang, Effects of cell defects on the mechanical and thermal properties of carbon honeycombs. Computational Materials Science 187, 110125 (2021)."
+title: "Y. Du, J. Zhou, P. Ying, J. Zhang, Effects of cell defects on the mechanical and thermal properties of carbon honeycombs. Computational Materials Science 187, 110125 (2021)."
 collection: publications
 permalink: /publication/6-Du_ComputMaterSci_2021
 excerpt: 'Cell defects are inevitable during the fabrication of carbon honeycombs (CHCs), which, however, were tacitly ignored in previous studies. In this work, the effects of defects including Stone-Wales (SW) defect and single-wall vacancy (SV) defect on the mechanical and thermal properties of CHCs are investigated by using molecular dynamics simulations.'

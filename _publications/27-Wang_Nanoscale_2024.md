@@ -1,5 +1,5 @@
 ---
-title: "27. B. Wang, P. Ying, J. Zhang, The thermoelastic properties of monolayer covalent organic frameworks studied by machine-learning molecular dynamics. Nanoscale 16, 237-248 (2023)."
+title: "B. Wang, P. Ying, J. Zhang, The thermoelastic properties of monolayer covalent organic frameworks studied by machine-learning molecular dynamics. Nanoscale 16, 237-248 (2023)."
 collection: publications
 permalink: /publication/27-Wang_Nanoscale_2024
 excerpt: 'With the aid of the obtained NEP, molecular dynamics (MD) simulations together with a strain-fluctuation method were employed to evaluate the elastic constants of the considered 2D COFs at different temperatures. The elastic constants of COF-1 and COF-5 monolayers were found to decrease with an increase in the temperature, though they were almost isotropic irrespective of the temperature. The thermally induced softening of 2D COFs below a critical temperature was observed, which is mainly attributed to their inherent ripple configurations at finite temperatures, while above the critical temperature, the damping effect of anharmonic vibrations became the dominant factor. Based on the proposed mechanisms, analytical models were developed for capturing the temperature dependence of elastic constants, which were found to agree with the MD simulation results well.'

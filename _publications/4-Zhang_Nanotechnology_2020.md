@@ -1,5 +1,5 @@
 ---
-title: "4. J. Zhang, Y. Zhou, P. Ying, H. Sun, J. Zhou, T. Wang, W. Jie, M. Kuball, Effects of interlayer interactions on the nanoindentation response of freely suspended multilayer gallium telluride. Nanotechnology 31, 165706 (2020)."
+title: "J. Zhang, Y. Zhou, P. Ying, H. Sun, J. Zhou, T. Wang, W. Jie, M. Kuball, Effects of interlayer interactions on the nanoindentation response of freely suspended multilayer gallium telluride. Nanotechnology 31, 165706 (2020)."
 collection: publications
 permalink: /publication/4-Zhang_Nanotechnology_2020
 excerpt: 'Freestanding indentation is a widely used method to characterise the elastic properties of two-dimensional (2D) materials. However, many controversies and confusion remain in this field due to the lack of appropriate theoretical models in describing the indentation responses of 2D materials. Taking the multilayer gallium telluride (GaTe) as an example, in this paper we conduct a series of experiments and simulations to achieve a comprehensive understanding of its freestanding indentation behaviours.'

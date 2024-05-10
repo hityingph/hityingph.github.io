@@ -1,5 +1,5 @@
 ---
-title: "30. X. Wang, J. Yang, P. Ying, Z. Fan, J. Zhang, H. Sun, Dissimilar thermal transport properties in κ-Ga2O3 and β-Ga2O3 revealed by homogeneous nonequilibrium molecular dynamics simulations using machine-learned potentials. Journal of Applied Physics 135, 065104 (2024)."
+title: "X. Wang, J. Yang, P. Ying, Z. Fan, J. Zhang, H. Sun, Dissimilar thermal transport properties in κ-Ga2O3 and β-Ga2O3 revealed by homogeneous nonequilibrium molecular dynamics simulations using machine-learned potentials. Journal of Applied Physics 135, 065104 (2024)."
 collection: publications
 permalink: /publication/30-Wang_JApplPhys_2024
 excerpt: 'In this work, we develop machine-learned neuroevolution potentials (NEPs) for single-crystalline $\beta$-Ga$_2$O$_3$ and $\kappa$-Ga$_2$O$_3$, and demonstrate their accuracy in modeling thermal transport properties. Combining NEP-driven homogeneous non-equilibrium molecular dynamics (HNEMD) simulations with tensor analysis, we determine the spatial distributions of lattice thermal conductivities (LTCs) for two Ga$_2$O$_3$ crystals, showing dissimilar thermal behaviors.'

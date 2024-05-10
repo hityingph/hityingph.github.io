@@ -1,5 +1,5 @@
 ---
-title: "9. P. Ying, J. Zhang, Z. Zhong, Effect of Phase Transition on the Thermal Transport in Isoreticular DUT Materials. The Journal of Physical Chemistry C 125, 12991-13001 (2021)."
+title: "P. Ying, J. Zhang, Z. Zhong, Effect of Phase Transition on the Thermal Transport in Isoreticular DUT Materials. The Journal of Physical Chemistry C 125, 12991-13001 (2021)."
 collection: publications
 permalink: /publication/9-Ying_JPhysChemC_2021
 excerpt: 'Soft porous crystals (SPCs) or flexible metal–organic frameworks have great potential applications in gas storage and separation, in which SPCs can undergo phase transition due to external stimuli. Thus, understanding the effect of phase transition on the thermal transport in SPCs becomes extremely crucial because the latent heat generated in aforementioned applications is needed to be effectively removed. In this paper, taking the isorecticular DUT series as an example, the thermal transport property of SPCs during the phase transition from a large pore (lp) phase to a narrow pore (np) phase is comprehensively investigated by molecular dynamics simulations together with the Gree–Kubo method. '

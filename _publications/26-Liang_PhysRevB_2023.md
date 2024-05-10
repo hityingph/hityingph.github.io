@@ -1,5 +1,5 @@
 ---
-title: "26. T. Liang, P. Ying, K. Xu, Z. Ye, C. Ling, Z. Fan, J. Xu, Mechanisms of temperature-dependent thermal transport in amorphous silica from machine-learning molecular dynamics. Physical Review B 108, 184203 (2023)."
+title: "T. Liang, P. Ying, K. Xu, Z. Ye, C. Ling, Z. Fan, J. Xu, Mechanisms of temperature-dependent thermal transport in amorphous silica from machine-learning molecular dynamics. Physical Review B 108, 184203 (2023)."
 collection: publications
 permalink: /publication/26-Liang_PhysRevB_2023
 excerpt: 'Using the homogeneous nonequilibrium MD method and a proper quantum-statistical correction to the classical MD results, quantitative agreement with experiments is achieved for the thermal conductivities of bulk and 190-nm-thick a-SiO2 films over a wide range of temperatures.'

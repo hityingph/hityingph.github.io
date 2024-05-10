@@ -1,5 +1,5 @@
 ---
-title: "5. P. Ying, J. Zhang, X. Zhang, Z. Zhong, Impacts of Functional Group Substitution and Pressure on the Thermal Conductivity of ZIF-8. The Journal of Physical Chemistry C 124, 6274-6283 (2020)."
+title: "P. Ying, J. Zhang, X. Zhang, Z. Zhong, Impacts of Functional Group Substitution and Pressure on the Thermal Conductivity of ZIF-8. The Journal of Physical Chemistry C 124, 6274-6283 (2020)."
 collection: publications
 permalink: /publication/5-Ying_JPhysChemC_2020
 excerpt: 'Metal–organic frameworks (MOFs) are promising candidates as natural gas adsorbents because of their porous feature and high structural tunability. In the gas adsorption/desorption process, MOFs are often under complicated physical environments, such as varied pressure and temperature; however, limited attention has been paid to the effect of pressure on their thermal properties. In this work, taking ZIF-8 with four different functional groups (−H, −CH3, −Cl, and −Br) as an example, we investigate the influence of functional group substitution and pressure on the thermal conductivity of MOFs through equilibrium molecular dynamics simulations.'

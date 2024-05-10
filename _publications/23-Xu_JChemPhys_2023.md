@@ -1,5 +1,5 @@
 ---
-title: "23. K. Xu, Y. Hao, T. Liang, P. Ying, J. Xu, J. Wu, Z. Fan, Accurate prediction of heat conductivity of water by a neuroevolution potential. J Chem Phys 158, 204114 (2023)."
+title: "K. Xu, Y. Hao, T. Liang, P. Ying, J. Xu, J. Wu, Z. Fan, Accurate prediction of heat conductivity of water by a neuroevolution potential. J Chem Phys 158, 204114 (2023)."
 collection: publications
 permalink: /publication/23-Xu_JChemPhys_2023
 excerpt: 'We propose an approach that can accurately predict the heat conductivity of liquid water.'
